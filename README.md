@@ -62,6 +62,10 @@ Below is an example of the output generated when running the code with
 
 ![image-1](https://github.com/user-attachments/assets/59a9210f-7c44-4b90-9b49-1c51cb6aa449)
 
+The transaction won't be identified as Bot by pump.fun
+
+![image](https://github.com/user-attachments/assets/a06d6451-c4bf-470b-b13b-07f09c7d8320)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
