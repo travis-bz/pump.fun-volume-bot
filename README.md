@@ -39,7 +39,8 @@ Before running the simulation, you need to set up your private key and specify t
 ## Usage
 
 index.js file
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/f5c5956c-168d-43e0-9bfb-7d4555dca051)
 
 Remove comment of the swap you want to execute (buy or sell)
 
@@ -57,7 +58,9 @@ node index.js
 
 Below is an example of the output generated when running the code with 
 
-![Example Output](image-1.png)
+![Example Output]
+
+![image-1](https://github.com/user-attachments/assets/59a9210f-7c44-4b90-9b49-1c51cb6aa449)
 
 ## License
 
