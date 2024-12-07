@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-TG: travis_bz | Discord: travis_bz
+TG: travis_rx | Discord: travis_rx
