@@ -73,3 +73,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 TG: travis_rx | Discord: travis_rx
+
+You can Tip me here: 3LhHBWhmZpPMFZ9YuU6k95otH9Sd6j8DpxHpCUYwPkkj
